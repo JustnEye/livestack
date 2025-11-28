@@ -17,16 +17,16 @@ VIDEOS = [
         "body": "What every engineer should know about distributed computing.",
     },
     {
-        "title": "Murdoch vs Redstone",
-        "body": "The history of media empires and power.",
+        "title": "Oxygen vs. Ozone",
+        "body": "The history of diatomic oxygen and trioxides.",
     },
     {
         "title": "Building a CDN Simulator",
         "body": "Simulating multi-edge routing and latency.",
     },
     {
-        "title": "Ellison's AI Cluster",
-        "body": "Inside Oracle's 1.2 billion-watt GPU brain.",
+        "title": "AI Cluster",
+        "body": "Inside a billion-watt GPU brain.",
     },
 ]
 
